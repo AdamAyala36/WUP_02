@@ -62,7 +62,7 @@ The top of the c39 box its Q3 is at 54.75. The bottom of c52 being Q1 is higher 
 t.test(VitC~Cult,data=veggy)
 ```
   
-The probability (p-value) of this result is 0.00000003405. This number is very small, meaning getting a different result is very small. So something is going on, the c52 method is having more vitamin C compared to the c39 method. Thus allowing me to reject the main hypothesis which is that nothing is going on.
+The probability (p-value) of this result is 0.00000003405. This number is very small, meaning getting a different result is very small. So something is going on, the c52 method is having more vitamin C compared to the c39 method. Thus allowing me to reject the main hypothesis which is that nothing is going on. 
 
 # Discussion and Conclusion
 
