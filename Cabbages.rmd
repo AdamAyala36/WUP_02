@@ -51,7 +51,7 @@ favstats(VitC~Cult,data=veggy)
 ```
   
 
-The top of the c39 box its Q3 is at 54.75. The bottom of c52 being Q1 is higher up than the Q3 box at of c38 as the c52 Q1 line is at 58.
+The top of the c39 box its Q3 is at 54.75. The bottom of c52 being Q1 is higher up than the Q3 box at of c39 as the c52 Q1 line is at 58.
 
 
 ## Inferential Results
@@ -67,3 +67,5 @@ The probability (p-value) of this result is 0.00000003405. This number is very s
 # Discussion and Conclusion
 
 <!--Discussion and conclusion here.  If you found a relationship be sure to consider whether the relationship occurs because one of the variavbles causes the other, or whether they perhasps are related for some other reason.  Watch the chapter 6 videos from the GeorgeTown videos collection.!-->
+
+After visually seeing the data through a boxplot, showing c52 being higher than c39. Then the numerical data using a favstat code. This showed the difference of numbers from Q1 of c39 compared to c52's Q3 showing that c52's Q3 is greater than the Q3 of c39. Finally doing a Inferential t-test we could see the probability value is 0.00000003405. Proving that something is happening within this data, and that is the c52 method yields more vitamin C than the c39 data.
